@@ -1,6 +1,6 @@
 ## restapi_emp
 Instalasi
- npm install --save
+``npm install --save``
 
 ### Endpoints:
 
